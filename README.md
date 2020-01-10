@@ -181,6 +181,6 @@ export default class Watcher {
 
 ### 源码解析
 
-![微信图片_20200110101032](C:\Users\Administrator\Desktop\微信图片_20200110101032.png)
+![源码结构](./000/img/source.png)
 
 [学员]:https://www.yuque.com/docs/share/2ced968d-ec76-480d-9ccb-3075b4ed5fa9
